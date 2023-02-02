@@ -11,7 +11,7 @@
 ## :bar_chart:Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kena-nk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kena-nk&show_icons=true&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kena-nk&show_icons=true&hide=stars,issues,contribs)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kena-nk&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kena-nk/github-profile-trophy&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
